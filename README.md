@@ -1,4 +1,4 @@
-# Bootstrap Theme Test 1
+# Bootstrap Theme Test Phoenix
 
 ## Mock-up
 
