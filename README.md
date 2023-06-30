@@ -7,6 +7,11 @@ This is using Bootstrap 5.2.3.
 
 Added the Theme but it still looks half broken.
 
+// write instrutions on how to add a bootstrap theme to a rails app
+
+## Installation
+
+
 
 
 
